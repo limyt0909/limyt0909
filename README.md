@@ -17,12 +17,7 @@ Here are some ideas to get you started:
   <br />
   
 
-    
-    [Anurag's GitHub stats](https://  github-readme-stats.vercel.app/api?username=limyt0909&show_icons=true)
-    
-    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=tokyonight)
 
-  github-readme-stats.vercel.app/api/top-langs/?username=limyt0909&langs_count=8
 # Contacts
 <a href="https://github.com/limyt0909" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flay&logo=git&logoColor=white"/></a>
 <a href="https://www.instagram.com/dragon_tack/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
@@ -39,3 +34,10 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+
+    
+    [Anurag's GitHub stats](https://  github-readme-stats.vercel.app/api?username=limyt0909&show_icons=true)
+    
+    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=tokyonight)
+
+  github-readme-stats.vercel.app/api/top-langs/?username=limyt0909&langs_count=8
