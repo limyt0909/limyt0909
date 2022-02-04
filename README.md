@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limyt0909&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limyt0909&layout=compact)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=limyt0909)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=limyt0909)(https://github.com/anuraghazra/github-readme-stats)
 
 # Contacts
 <a href="https://github.com/limyt0909" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flay&logo=git&logoColor=white"/></a>
