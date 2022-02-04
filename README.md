@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/limyt0909" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flay&logo=git&logoColor=white"/></a>
 <a href="https://www.instagram.com/dragon_tack/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 
-  github-readme-stats.vercel.app/api?username={limyt0909}&show_icons=true
+  github-readme-stats.vercel.app/api?username=limyt0909&show_icons=true
 
   
 **Stack**
