@@ -18,7 +18,6 @@ Here are some ideas to get you started:
   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limyt0909&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limyt0909&layout=compact)
 
 # Contacts
 <a href="https://github.com/limyt0909" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flay&logo=git&logoColor=white"/></a>
@@ -30,6 +29,7 @@ Here are some ideas to get you started:
   
 **Stack**
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limyt0909&layout=compact)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
