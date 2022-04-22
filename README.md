@@ -36,8 +36,7 @@ Here are some ideas to get you started:
 **Back-End**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
-
+"https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"
 Node.js, Express, Postgres, Docker
 
 
