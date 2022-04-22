@@ -1,5 +1,8 @@
 ### Let me introduce 👋
-Hi there ! I'm Front-End developer Using React and Node
+Front-End
+JavaScript, React.js Recoil 
+Back-End
+Node.js, Express, Postgres, Docker
 <!--
 **limyt0909/limyt0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,11 +31,9 @@ Here are some ideas to get you started:
 
   
 **Stack**
-Front-End
-JavaScript, React.js Recoil
 
-Back-End
-Node.js, Express, Postgres, Docker
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limyt0909&layout=compact)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
