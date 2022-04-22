@@ -47,5 +47,7 @@ Node.js, Express, Postgres, Docker
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limyt0909&layout=compact)
 
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=limyt0909)](https://solved.ac/limyt0909)
+
 
 
