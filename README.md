@@ -1,8 +1,5 @@
 ### Let me introduce 👋
-Front-End
-JavaScript, React.js Recoil 
-Back-End
-Node.js, Express, Postgres, Docker
+
 <!--
 **limyt0909/limyt0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,9 +27,14 @@ Here are some ideas to get you started:
 
 
   
-**Stack**
+**Stack**Front-End
+JavaScript, React.js Recoil 
+Back-End
+Node.js, Express, Postgres, Docker
 
 
+
+<br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limyt0909&layout=compact)
 
