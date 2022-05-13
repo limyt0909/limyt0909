@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 -->
   <br />
   
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=limyt0909">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limyt0909&count_private=true)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=limyt0909)](https://solved.ac/limyt0909)
+
 
 # Contacts
 <a href="https://github.com/limyt0909" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flay&logo=git&logoColor=white"/></a>
