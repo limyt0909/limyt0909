@@ -46,8 +46,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limyt0909&layout=compact)
 
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" />
-
+<br />
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=limyt0909)](https://solved.ac/limyt0909)
-
+<br />
