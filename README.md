@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <br />  <br />
+  <br />  
 ![limyt0909's github stats](https://github-readme-stats.vercel.app/api?username=limyt0909&show_icons=true&theme=tokyonight&count_private=true)
   <br />
 
@@ -38,9 +38,6 @@ Here are some ideas to get you started:
 <img src= "https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
 
 
-![limyt0909's github stats](https://github-readme-stats.vercel.app/api?username=limyt0909&show_icons=true&theme=tokyonight&count_private=true)
-
-<br />
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limyt0909&layout=compact)
