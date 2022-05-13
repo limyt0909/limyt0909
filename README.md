@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   <br />
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=limyt0909&show_icons=true&theme=tokyonight)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=tokyonight)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=limyt0909)](https://github.com/ryo-ma/github-profile-trophy)
-
+![limyt0909's github stats](https://github-readme-stats.vercel.app/api?username=limyt0909&show_icons=true)
 
 
 
