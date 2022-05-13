@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   <br />
-![github stats](https://github-readme-stats.vercel.app/api?username=limyt0909&show_icons=true)
 
 
 
@@ -38,7 +37,7 @@ Here are some ideas to get you started:
 <img src= "https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=limyt0909&show_icons=true&theme=tokyonight&count_private=true)
+![limyt0909's github stats](https://github-readme-stats.vercel.app/api?username=limyt0909&show_icons=true&theme=tokyonight&count_private=true)
 
 <br />
 <br />
