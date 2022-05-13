@@ -17,6 +17,8 @@ Here are some ideas to get you started:
   <br />     <br />  
 ![limyt0909's github stats](https://github-readme-stats.vercel.app/api?username=limyt0909&show_icons=true&theme=tokyonight&count_private=true)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=limyt0909)](https://solved.ac/limyt0909)
 
 
 # Contacts
@@ -46,7 +48,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limyt0909&layout=compact)
 
-<br />
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=limyt0909)](https://solved.ac/limyt0909)
-<br />
+
