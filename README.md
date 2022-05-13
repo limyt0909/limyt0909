@@ -1,6 +1,6 @@
 ### Let me introduce 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Dragon_World&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Dragon_World&fontSize=90&animation=fadeIn)
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&text=Dragon&color=gradient&animation=fadeIn)
 <!--
 **limyt0909/limyt0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
