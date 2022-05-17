@@ -18,20 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   <br />     <br />  
->
-  
-   ![limyt0909's github stats](https://github-readme-stats.vercel.app/api?username=limyt0909&show_icons=true&theme=tokyonight&count_private=true)
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=limyt0909)](https://solved.ac/limyt0909)
 
 
 # Contacts
 <a href="https://github.com/limyt0909" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flay&logo=git&logoColor=white"/></a>
 <a href="https://www.instagram.com/dragon_tack/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 <a href="https://velog.io/@limyt0909"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-
-  
 **Stack**
 
 **Front-End**
@@ -44,9 +36,19 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <img src= "https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
 
+ <div align=center> 
+ 
+   ![limyt0909's github stats](https://github-readme-stats.vercel.app/api?username=limyt0909&show_icons=true&theme=tokyonight&count_private=true)
 
-<br />
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=limyt0909)](https://solved.ac/limyt0909)
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limyt0909&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limyt0909&layout=compact)
+ 
+</div>
+
+
+  
 
 
