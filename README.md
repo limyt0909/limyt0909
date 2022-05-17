@@ -2,7 +2,7 @@
  <!--
  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Dragon_World&fontSize=50&animation=fadeIn)
 -->
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&text=Dragon&animation=fadeIn&fontAlign=70&fontAlignY=50&desc=Dev.&descSize=30)
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=auto&text=Dragon&animation=fadeIn&fontAlign=70&fontAlignY=50&desc=Dev.&descSize=30)
 <!--
 **limyt0909/limyt0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
