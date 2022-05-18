@@ -12,8 +12,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-the-square&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-the-square&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-the-square&logo=TypeScript&logoColor=white">
-
+<img src="https://img.shields.io/badge/Redux -764ABC?style=flat-the-square&logo=Redux&logoColor=white">
 **Back-End**
 <img src= "https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
