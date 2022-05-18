@@ -15,9 +15,10 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-the-square&logo=TypeScript&logoColor=white">
 
 **Back-End**
-<img src= "https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
+<img src= "https://img.shields.io/badge/Sequelize-2496ED?style=flat-square&logo=Sequelize&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
+<img src= "https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-the-square&logo=GraphQL&logoColor=white">
 
 
