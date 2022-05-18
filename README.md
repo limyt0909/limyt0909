@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/dragon_tack/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 <a href="https://velog.io/@limyt0909"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
-# Tech
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 
 **Front-End**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
