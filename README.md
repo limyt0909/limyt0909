@@ -17,7 +17,7 @@
 <img src= "https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
-<img src="https://img.shields.io/badge/GraphQL-232F3E?style=flat-the-square&logo=#E10098&logoColor=white">
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-the-square&logo=#GraphQL&logoColor=white">
 
 
 
