@@ -55,13 +55,6 @@ Here are some ideas to get you started:
 
 
 
-# Contacts
-<a href="https://github.com/limyt0909" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flay&logo=git&logoColor=white"/></a>
- <!--
-<a href="https://www.instagram.com/dragon_tack/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a> -->
-<a href="https://velog.io/@limyt0909"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-
-
 
 # Stats
  <div align=center> 
