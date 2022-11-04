@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
 <img src= "https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-the-square&logo=GraphQL&logoColor=white">
+<img src="https://img.shields.io/badge/Nginx-11FB27?style=flat-the-square&logo=Nginx&logoColor=white">
 
 **DataBase**
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
