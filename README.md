@@ -2,7 +2,9 @@
  <!--
  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Dragon_World&fontSize=50&animation=fadeIn)
  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
--->
+<--[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=limyt0909)](https://solved.ac/limyt0909) -->
+
 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
@@ -60,9 +62,7 @@ Here are some ideas to get you started:
  
    ![limyt0909's github stats](https://github-readme-stats.vercel.app/api?username=limyt0909&show_icons=true&theme=tokyonight&count_private=true)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=limyt0909)](https://solved.ac/limyt0909)
- 
+
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limyt0909&layout=compact)
 
  
