@@ -12,13 +12,13 @@
 **Front-End**
 <img src="https://img.shields.io/badge/React-black?style=flat-the-square&logo=React&logoColor=#61DAFB">
 <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-the-square&logo=MUI&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-the-square&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-the-square&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/Redux -764ABC?style=flat-the-square&logo=Redux&logoColor=white">
 
 **Back-End**
 <img src="https://img.shields.io/badge/Nest.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-the-square&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-the-square&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/TypeORM-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
 <img src= "https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white" />
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
